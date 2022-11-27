@@ -13,13 +13,8 @@ Members:
 ## Table of Contents
 
 [1.0 Problem Statement](#10-problem-statement)
-
-  Over 50% of population are dependent on agriculture. The major source of earnings, it also contributes to our survival by supplying meals. Today's farmers, however, confront a variety of challenges in maintaining their crops, including subpar irrigation, water management and extensive pesticide use.
-        
-
+      
 [2.0 System Architecture](#20-system-architecture)
-
-To overcome this problem, we adopted an agriculture monitoring system using IoT.  This system integrates three types of sensors: pH level sensor, temperature sensor and moisture sensors and send data to dashboard. The dashboard allows the user can monitor data such as the
 
 [3.0 Sensor](#30-sensor)
 
@@ -31,8 +26,12 @@ To overcome this problem, we adopted an agriculture monitoring system using IoT.
 
 ## 1.0 Problem Statement 
 
+Over 50% of population are dependent on agriculture. The major source of earnings, it also contributes to our survival by supplying meals. Today's farmers, however, confront a variety of challenges in maintaining their crops, including subpar irrigation, water management and extensive pesticide use.
+
 
 ## 2.0 System Architecture
+
+To overcome this problem, we adopted an agriculture monitoring system using IoT.  This system integrates three types of sensors: pH level sensor, temperature sensor and moisture sensors and send data to dashboard where user can get the current and average reading. 
 
 ## 3.0 Sensor
 
