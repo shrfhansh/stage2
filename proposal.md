@@ -34,8 +34,6 @@ Over 50% of population are dependent on agriculture. The major source of earning
 
 To overcome this problem, we adopted an agriculture monitoring system using IoT.  This system integrates three types of sensors: pH level sensor, temperature sensor and moisture sensors and send data to dashboard where user can get the current and average reading. 
 
-![](system.png) Figure 2.1: System Architecture
-
 <br>
 
 ## 3.0 Sensor
