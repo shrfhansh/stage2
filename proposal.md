@@ -46,11 +46,14 @@ Sensors and devices used in this project:
 
 Proposed data transmission protocol: HTTP
 
-![](sensor2.jpg) Figure 3.1: Wiring connections
+![](sensor2.jpg) 
 
-<br>
+Figure 3.1: Wiring connections
 
-![](sensor1.jpg) Figure 3.2: Hardware connections
+
+![](sensor1.jpg) 
+
+Figure 3.2: Hardware connections
 
 <br>
 
@@ -61,4 +64,6 @@ Proposed data transmission protocol: HTTP
 ## 5.0 Dashboard
 
 
-![](dashboard1.jpg) Figure 5.1: Sketching of dashboard appearance
+![](dashboard1.jpg) 
+
+Figure 5.1: Sketching of dashboard appearance
