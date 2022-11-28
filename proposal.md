@@ -26,7 +26,7 @@ Members:
 
 ## 1.0 Problem Statement 
 
-Over 50% of population are dependent on agriculture. The major source of earnings, it also contributes to our survival by supplying meals. Today's farmers, however, confront a variety of challenges in maintaining their crops, including subpar irrigation, water management and extensive pesticide use.
+Over 50% of population are dependent on agriculture. The major source of earnings, it also contributes to our survival by supplying meals. Today's farmers, however, confront a variety of challenges in maintaining their crops, including subpar irrigation, water management and extensive pesticide use. These challenges reduce their produce quality and increases loss to their income.
 
 <br>
 
