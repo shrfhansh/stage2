@@ -34,8 +34,7 @@ Over 50% of population are dependent on agriculture. The major source of earning
 
 To overcome this problem, we adopted an agriculture monitoring system using IoT.  This system integrates three types of sensors: pH level sensor, temperature sensor and moisture sensors and send data to dashboard where user can get the current and average reading. 
 
-![](system.png) 
-Figure 2.1: System Architecture
+![](system.png) Figure 2.1: System Architecture
 
 <br>
 
@@ -47,11 +46,11 @@ Sensors and devices used in this project:
 
 Proposed data transmission protocol: HTTP
 
-![](sensor2.jpg) 
-Figure 3.1: Wiring connections
+![](sensor2.jpg) Figure 3.1: Wiring connections
 
-![](sensor1.jpg) 
-Figure 3.2: Hardware connections
+<br>
+
+![](sensor1.jpg) Figure 3.2: Hardware connections
 
 <br>
 
@@ -62,5 +61,4 @@ Figure 3.2: Hardware connections
 ## 5.0 Dashboard
 
 
-![](dashboard1.jpg) 
-Figure 5.1: Sketching of dashboard appearance
+![](dashboard1.jpg) Figure 5.1: Sketching of dashboard appearance
