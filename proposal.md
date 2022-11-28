@@ -28,10 +28,15 @@ Members:
 
 Over 50% of population are dependent on agriculture. The major source of earnings, it also contributes to our survival by supplying meals. Today's farmers, however, confront a variety of challenges in maintaining their crops, including subpar irrigation, water management and extensive pesticide use.
 
+<br>
 
 ## 2.0 System Architecture
 
 To overcome this problem, we adopted an agriculture monitoring system using IoT.  This system integrates three types of sensors: pH level sensor, temperature sensor and moisture sensors and send data to dashboard where user can get the current and average reading. 
+
+![](system.png) Figure 2.1: System Architecture
+
+<br>
 
 ## 3.0 Sensor
 Sensors and devices used in this project:
@@ -45,8 +50,11 @@ Proposed data transmission protocol: HTTP
 
 ![](sensor1.jpg) Figure 3.2: Hardware connections
 
+<br>
 
 ## 4.0 Cloud Platform
+
+<br>
 
 ## 5.0 Dashboard
 
