@@ -34,8 +34,21 @@ Over 50% of population are dependent on agriculture. The major source of earning
 To overcome this problem, we adopted an agriculture monitoring system using IoT.  This system integrates three types of sensors: pH level sensor, temperature sensor and moisture sensors and send data to dashboard where user can get the current and average reading. 
 
 ## 3.0 Sensor
+Sensors and devices used in this project:
+- NodeMCU ESP8266
+- DHT11
+- Soil moisture sensor
+
+Proposed data transmission protocol: HTTP
+
+![](sensor2.jpg) Figure 3.1: Wiring connections
+
+![](sensor1.jpg) Figure 3.2: Hardware connections
+
 
 ## 4.0 Cloud Platform
 
 ## 5.0 Dashboard
 
+
+![](dashboard1.jpg) Figure 5.1: Sketching of dashboard appearance
