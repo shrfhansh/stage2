@@ -59,7 +59,7 @@ Figure 3.2: Hardware connections
 
 ## 4.0 Cloud Platform
 
-Link to How to deploy Flask app to Heroku <a href="[http://www.something.com](https://www.youtube.com/watch?v=4_EO4RwABbA)">here.</a>.
+Link to How to deploy Flask app to Heroku <a href="https://www.youtube.com/watch?v=4_EO4RwABbA"> here. </a>.
 <br>
 
 ## 5.0 Dashboard
